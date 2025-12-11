@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.17.0",
+    "date-fns": "^4.1.0",
     "face-api.js": "^0.22.2",
     "pinia": "^3.0.4",
     "quasar": "^2.18.5",
