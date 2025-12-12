@@ -23,10 +23,6 @@
   </q-layout>
 </template>
 
-
-
-
-
 <script setup>
 import Uni from "../assets/Uni.png";
 import BotonIniciar from "../components/BotonIniciar.vue"

@@ -240,10 +240,6 @@ onMounted(async () => {
 
 <style>
 
-  body{
-    display: none;
-  }
-
 .container {
   display: flex;
   justify-content: center;
